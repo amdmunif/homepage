@@ -1,0 +1,50 @@
+Ahmad Munif - CS50x Harvard - Indonesia - Week 8
+Link :
+
+I create 4 HTML page with detail
+    - HOME PAGE ( index.html )              : A simple introduce
+    - PROFILE PAGE ( profile.html )         : A CV picture
+    - EXPERIENCE PAGE ( experience.html )   : Page to experience with the button to change the color
+    - GALLREY PAGE ( gallery.php )          : Gallery from my screenshoot while join the section
+
+I create 1 CSS page to handle all the style
+I use inline JavaScript to handle the function
+
+Using HTML, CSS, and JavaScript
+- HTML Tag :
+    - <title>   : Indicate the title of the page
+    - <link>    : Give a link from other online file
+    - <header>  : Give a mark as a header of the page
+    - <div>     : Indicate a "things" with a spesific class
+    - <nav>     : Indicate the navigation bar
+    - <img>     : Give image to the web page
+    - <ul>      : Create a list
+    - <li>      : The spesifik list
+    - <a>       : A link
+    - <main>    : Indicate a main content of the web page
+    - <h1>      : Give a text H1 property, to make it bigger
+    - <p>       : Indicate a paragraph
+    - <script>  : To create a JavaScript code at yout web page
+    - <button>  : A button
+
+- CSS :
+    - font-family   : Use a spesific font
+    - font-size     : Set the size of font
+    - font-weight   : Set the boldnes of font
+    - height        : Set a height for a "thing"
+    - width         : Set a width for a "thing"
+    - margin        : Give a margin for content
+    - background-color: Set the background color
+    - border-radius : Set the box to not have a corner
+    - text-decoration: Set the decoration text like underline
+    - color         : Set the font color
+
+- JavaScript :
+    - document.getElementById   : Get Element ID
+    - function()                : Create a function
+    - click()                   : Click function
+    - const button              : Create a variable - button
+    - const color               : Create a variable - color
+    - const feedback            : Create a variable - feedback
+    - style.backgroundColor     : To set the background color
+    - style.color               : To set the text color
